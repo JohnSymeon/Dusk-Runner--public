@@ -1,3 +1,6 @@
+/*
+Used to control the game's audio.
+*/
 using UnityEngine.Audio;
 using UnityEngine;
 using System;
