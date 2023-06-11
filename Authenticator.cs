@@ -1,3 +1,6 @@
+/*
+Used to authenticate google play and load up the leaderboard from google play console.
+*/
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
