@@ -1,3 +1,6 @@
+/*
+Audio clip class used by AudioManager
+*/
 using UnityEngine.Audio;
 using UnityEngine;
 
