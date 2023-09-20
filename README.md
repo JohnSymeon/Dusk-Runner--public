@@ -1,2 +1,2 @@
 # Dusk-Runner--public
-Useful Unity C# scripts used in the android game Dusk Runner.
+Useful Unity C# scripts used in the android game Dusk Runner (public).
